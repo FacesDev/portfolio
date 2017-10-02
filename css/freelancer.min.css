@@ -4,6 +4,7 @@
     justify-content: center;
     flex-wrap: wrap;}
     .iconStyle{font-size: 4em; margin:1em;}
+    .iconStyleImg{width: 4em; margin:1em;}
     #lifestyle{
     background-image: url("./chrisWakeboard.png");
     height: 500px; 
@@ -48,5 +49,22 @@ hr.star-white:after {
   color: white;
 }
 .resume-icons-footer{height: 3em; border-radius: 20px;margin: .5em;}
-
-
+.rmga {
+  width:30%;
+}
+.modalIcons{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.iconStyleModal {
+  margin: 5px;
+  font-size: 4em;
+}
+.iconStyleModalImg {
+  width: 4em; 
+  margin:5px;
+}
+.rmga {
+  width:70%;
+}
