@@ -68,3 +68,20 @@ hr.star-white:after {
 .rmga {
   width:70%;
 }
+
+
+.wrapper .text {
+  position:relative;
+  bottom:37%;
+  left:37%;
+  visibility:hidden;
+  color: #2C3E50;
+  font-weight:bold;
+  
+  }
+  
+  .wrapper:hover .text {
+  visibility:visible;
+  
+  }
+  
